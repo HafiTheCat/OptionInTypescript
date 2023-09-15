@@ -1,7 +1,7 @@
 {
-	"name": "option-ts",
+	"name": "rust-option-try",
 	"version": "0.1.0",
-	"description": "Interface for the svox file format",
+	"description": "I tried to implement some bare-bones Option<T> type in typescript",
 	"author": "HafiTheCat <https://github.com/HafiTheCat>",
 	"license": "MIT",
 	"scripts": {
